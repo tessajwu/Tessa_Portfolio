@@ -12,6 +12,7 @@ This Portfolio is a compilation of all the Data Science / Analysis projects I ha
 
 > This project aims to provide policy recommendations for slowing the spread of Covid-19 by analyzong the global policies implemented by 10 representative countries to determine efficacy in keeping down Death and Cases growth rates.
 
+>
 <img align="left" width="250" height="150" src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2017/02/blog_image-01-2.jpg"> **[Mutual Connections in Social Network](https://github.com/tessajwu/Covid-19_Policy_Reccomendation)**
 
 >   This project utliizes six degrees of freedom to analyze the correlation between the level of connection between individuals within the LinkedIn network and the number of mutual connections. 
