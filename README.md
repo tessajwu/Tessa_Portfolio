@@ -26,6 +26,6 @@ This project utliizes six degrees of freedom to analyze the correlation between 
 ## Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Statistics, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SQL
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib), R (Dplyr, Tidyr, Ggplot2), SQL, Java, Rust, LaTeX
 - **Tools**: MySQL, Tableau, Git, MS Excel, Azure, MATLAB, PowerBI, Slack
 
