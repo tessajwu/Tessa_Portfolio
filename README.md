@@ -10,7 +10,7 @@ This Portfolio is a compilation of all the Data Science / Analysis projects I ha
 
 <img align="left" width="250" height="150" src="https://cdn.centraljersey.com/wp-content/uploads/sites/26/2020/03/covid-19-4960254_1920.png"> **[Covid-19 Policy Recomendation](https://github.com/tessajwu/Covid-19_Policy_Reccomendation)**
 
-> This project aims to provide policy recommendations for slowing the spread of Covid-19 by analyzong the global policies implemented by 10 representative countries to determine efficacy in keeping down Death and Cases growth rates.
+> The objective of this project aims to provide policy recommendations for slowing the spread of Covid-19 by analyzong the global policies implemented by 10 representative countries to determine efficacy in keeping down Death and Cases growth rates.
 
 <img align="left" width="250" height="150" src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2017/02/blog_image-01-2.jpg"> **[Mutual Connections in Social Network](https://github.com/tessajwu/Mutual_Connection_in_Social_Network)**
 
