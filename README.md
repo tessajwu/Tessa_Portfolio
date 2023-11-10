@@ -8,15 +8,20 @@ seo:
   name: Tessa Wu Portfolio
 ---
 
+# Introduction 
+This Portfolio is a compilation of all of my analytical projects (data science and business analytics) that I have done for academic and self-learning purposes. It also contains my techincal proficiencies as well as an about me page. It is updated on the regular basis.
 
+# Core Competencies
+**Methodologies:** Object-Oriented Programming, Machine Learning, Deep Learning, Statistics, Big Data Analytics, Business Analytics, NLP
+**Languages:** Python (*Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, PyTorch, Tensorflow*), R (*Dplyr, Tidyr, Ggplot2*), SQL, Java, Rust, LaTeX
+**Tools:** PowerBI, Tableau, Microsoft Azure, Microsoft Office, GitHub, MATLAB, Slack, Jira, Trello
 
 # About 
 <hr/>
 <img align="left" src = "images/IMG_9859.jpg" width="350"> 
 	Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data Science with a minors in Business Administration and             Mathematics. My coursework, internships, and projects have equipped me with a solid foundation in business, statistics, and computer             science. With a strong understanding of data manipulation, statistical analysis, and predictive modeling, I am eager to combine my 							technical expertise with my passion for business and my love for global perspectives to drive forward-thinking data-drvien impacts.
 	<br/><br/><br/>
-	This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning 		purposes. It also contains my skills. It is updated on the regular basis.
-
+	
 # Projects
 <hr/>
 ## NBA Celtics Game Predictor
