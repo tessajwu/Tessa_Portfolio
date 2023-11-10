@@ -35,14 +35,14 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: about
     values:
-      layout: about
+      layout: single
       subpath: '/images/'
   - scope:
-      path: ''
-      type: projects
+      path: ""
+      type: single
     values:
       layout: projects
 
