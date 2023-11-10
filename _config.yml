@@ -38,11 +38,11 @@ defaults:
       path: ""
       type: about
     values:
-      layout: single
+      layout: page
       subpath: '/images/'
   - scope:
       path: ""
-      type: single
+      type: page
     values:
       layout: projects
 
