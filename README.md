@@ -9,9 +9,11 @@ seo:
 ---
 
 # Introduction 
+<hr/>
 This Portfolio is a compilation of all of my analytical projects (data science and business analytics) that I have done for academic and self-learning purposes. It also contains my techincal proficiencies as well as an about me page. It is updated on the regular basis.
 
 # Core Competencies
+<hr/>
 **Methodologies:** Object-Oriented Programming, Machine Learning, Deep Learning, Statistics, Big Data Analytics, Business Analytics, NLP
 **Languages:** Python (*Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, PyTorch, Tensorflow*), R (*Dplyr, Tidyr, Ggplot2*), SQL, Java, Rust, LaTeX
 **Tools:** PowerBI, Tableau, Microsoft Azure, Microsoft Office, GitHub, MATLAB, Slack, Jira, Trello
