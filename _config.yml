@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BU CS 506
-tagline: Data Science Tools and Applications
-description: Course website for Boston University CS 506 - Data Science Tools and Applications
-author: Lance Galletti
+title: [Tessa Wu Portfolio]
+description: [This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning purposes. It also contains my skills. It is updated on the regular basis.]
+author: Tessa Wu
 url: '# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -40,39 +39,13 @@ url: 'https://tessajwu.github.io/Tessa_Portfolio/'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.3.3
+theme:
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 footer_content:
 
-# Collections for website data
-collections:
-  about:
-  projects:
-
-# Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: aboutme
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: projects
-    values:
-      layout: module
-  
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
 
 plugins:
   - jekyll-seo-tag
