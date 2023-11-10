@@ -19,7 +19,4 @@ My journey in data science has given me a strong foundation in technical skills 
 As I near the end of my undergraduate journey, I am excited to leverage my data science background and skills to make a positive impact in the world. I envision myself in a forward-thinking organization that values both innovation and a global mindset. I believe that leveraging data in a global context can create profound impacts, and I’m eager to be a part of that.
 Personal Interest and Hobbies
 Outside of data science and business, I enjoy traveling, music, sports, and photography! I am constantly in the mindset of growth and inpiration. I love to explore new places and learn about different cultures.
-Core Competencies
-Methodologies: Object-Oriented Programming, Machine Learning, Deep Learning, Statistics, Big Data Analytics, Business Analytics, NLP
-Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, PyTorch, Tensorflow), R (Dplyr, Tidyr, Ggplot2), SQL, Java, Rust, LaTeX
-Tools: PowerBI, Tableau, Microsoft Azure, Microsoft Office, GitHub, MATLAB, Slack, Jira, Trello
+
