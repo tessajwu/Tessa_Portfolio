@@ -1,12 +1,12 @@
 ---
 layout: page
-title: FAQ
-description: Frequently Asked Questions
+title: About 
+description: About Me
 ---
 
-## FAQ
+## About
 
-{% assign questions = site.faq %}
+{% assign questions = site.about %}
 {% for q in questions %}
 {{ q }}
 {% endfor %}
