@@ -38,12 +38,12 @@ defaults:
       path: about.md
       type: about
     values:
-      layout: module
+      layout: about
   - scope:
       path: ''
       type: projects
     values:
-      layout: module
+      layout: projects
 
 compress_html:
   clippings: all
