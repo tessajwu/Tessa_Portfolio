@@ -10,7 +10,7 @@ seo:
 
 
 
-<img align="left" src = "images/IMG_9859.jpg" width="300"> 
+<img align="left" src = "images/IMG_9859.jpg" width="310"> 
 
 # About 
 
