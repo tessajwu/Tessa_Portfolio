@@ -22,12 +22,10 @@ Objective:
 
 ## NBA Celtics Game Predictor
 <img align="left" src = "images/nba.jpeg" width="400"> 
-
 This project aims to provide a better understanding of how predictive analysis is transforming the sports industry, and how teams like the Celtics leverage data to gain a competitive edge and improve their overall performance. Several machine learning models (Logistic Regression, k-NN, Decision Trees, and Random Forest) are implemented to help identify key determinants that could potentially explain the recent success from the Celtics.
 
 ## COVID-19 Policy Recomendation
-<img align="left" src = "images/covid.webp" width="400"> 
-
+<img align="left" src = "images/covid.webp" width="400" height="500"> 
 **Overview:** This projects explores data of COVID-19 across 10 different countries from January 2020 - March 2021, analyzing the global policies implemented by 10 representative countries to determine efficacy in keeping down Death and Cases growth rates of COVID-19, and recommends the three most effective policies at decreasing COVID-19 rates.
 
 **Skills:** Cloud Computing, Data Engineering, Data Visualization
