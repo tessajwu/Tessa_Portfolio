@@ -37,13 +37,7 @@ author: Tessa Wu
 url: 'https://tessajwu.github.io/Tessa_Portfolio/'
 
 # Theme settings
-theme:
-color_scheme: dark
-search_enabled: true
-heading_anchors: true
-permalink: pretty
-footer_content:
-
+theme: pages-themes/cayman@v0.2.0
 
 plugins:
-  - jekyll-seo-tag
+- jekyll-remote-theme
