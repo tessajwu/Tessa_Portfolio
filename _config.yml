@@ -16,7 +16,6 @@
 title: [Tessa Wu Portfolio]
 description: [This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning purposes. It also contains my skills. It is updated on the regular basis.]
 author: Tessa Wu
-url: '# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -36,7 +35,6 @@ tagline: Data Science and Business Analytics Projects
 description: projects 
 author: Tessa Wu
 url: 'https://tessajwu.github.io/Tessa_Portfolio/'
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 theme:
