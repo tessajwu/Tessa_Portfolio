@@ -35,10 +35,11 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: about.md
+      path: ''
       type: about
     values:
       layout: about
+      subpath: '/images/'
   - scope:
       path: ''
       type: projects
