@@ -13,8 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tessa Wu Portfolio
+title: BU CS 506
 tagline: Data Science Tools and Applications
+description: Course website for Boston University CS 506 - Data Science Tools and Applications
+author: Lance Galletti
+url: '# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Tessa Wu Portfolio
+tagline: Data Science and Business Analytics Projects
+description: projects 
 author: Tessa Wu
 url: 'https://tessajwu.github.io/Tessa_Portfolio/'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -25,7 +45,6 @@ color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-
 footer_content:
 
 # Collections for website data
@@ -37,16 +56,16 @@ collections:
 defaults:
   - scope:
       path: ''
-      type: about
+      type: aboutme
     values:
-      layout: staffer
-      subpath: '/assets/images/'
+      layout: module
   - scope:
       path: ''
       type: projects
     values:
       layout: module
   
+
 compress_html:
   clippings: all
   comments: all
