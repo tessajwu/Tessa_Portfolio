@@ -6,7 +6,7 @@ description: About Me
 
 ## About
 
-{% assign questions = site.about %}
-{% for q in questions %}
+{% assign about = site.about %}
+{% for q in about %}
 {{ q }}
 {% endfor %}
