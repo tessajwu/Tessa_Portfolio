@@ -10,17 +10,13 @@ seo:
 
 # Core Competencies
 
-1. **Methodologies**: Machine Learning, Deep Learning, Statistics, Big Data Analytics, Business Analytics
+1. **Methodologies**: Object-Oriented Programming, Machine Learning, Deep Learning, Statistics, Big Data Analytics, Business Analytics, NLP
 2. **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, PyTorch, Tensorflow), R (Dplyr, Tidyr, Ggplot2), SQL, Java, Rust, LaTeX
-3. **Tools**: PowerBI, Tableau, Microsoft Azure, Microsoft Office, GitHub, MATLAB, Slack, Flutter, Jira, Trello
+3. **Tools**: PowerBI, Tableau, Microsoft Azure, Microsoft Office, GitHub, MATLAB, Slack, Jira, Trello
 
 ## About
 
-This Portfolio is a compilation of all of my data science and analytical projects that I have done for academic and self-learning purposes. It also contains my skills and certificates. It is updated on the regular basis.
-
-
-# Tessa's Data Science Portfolio
-This Portfolio is a compilation of all the Data Science / Analysis projects I have done for academic and self-learning purposes. It also contains my skills and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning purposes. It also contains my skills. It is updated on the regular basis.
 
 ---
 
