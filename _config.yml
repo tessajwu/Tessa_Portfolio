@@ -35,7 +35,7 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: about.md
       type: about
     values:
       layout: module
