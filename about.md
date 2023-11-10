@@ -6,7 +6,6 @@ description: About Me
 
 ## About
 
-{% assign about = site.about %}
-{% for q in about %}
-{{ q }}
-{% endfor %}
+Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data Science with a minors in Business Administration and Mathematics. My coursework, internships, and projects have equipped me with a solid foundation in business, statistics, and computer science. With a strong understanding of data manipulation, statistical analysis, and predictive modeling, I am eager to combine my technical expertise with my passion for business and my love for global perspectives to drive forward-thinking data-drvien impacts.
+
+This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning purposes. It also contains my skills. It is updated on the regular basis.
