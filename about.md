@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About 
-description: About Me
+description: About
 ---
-<p align="center">
-<img src = "images/IMG_9859.jpg" width="300"> 
-<p>
+<img align="left" src = "images/IMG_9859.jpg" width="300"> 
 
 ## About Me
 Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data Science with a minors in Business Administration and Mathematics. My coursework, internships, and projects have equipped me with a solid foundation in business, statistics, and computer science. With a strong understanding of data manipulation, statistical analysis, and predictive modeling, I am eager to combine my technical expertise with my passion for business and my love for global perspectives to drive forward-thinking data-drvien impacts. <br>
