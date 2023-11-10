@@ -18,6 +18,10 @@ Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data 
 This Portfolio is a compilation of all of my analytical (data science and business) projects that I have done for academic and self-learning purposes. It also contains my skills. It is updated on the regular basis.
 
 
+\
+\
+\
+\
 # Projects
 
 ## NBA Celtics Game Predictor
