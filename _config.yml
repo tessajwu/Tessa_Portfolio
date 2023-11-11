@@ -16,7 +16,7 @@
 title: Tessa Wu Portfolio
 tagline: Tessa Wu Portfolio
 author: Tessa Wu
-url: 'tessajwu.github.io/Tessa_Portfolio/'
+url: 'http://tessajwu.github.io/Tessa_Portfolio/'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
