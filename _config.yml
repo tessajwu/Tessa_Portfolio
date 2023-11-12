@@ -35,16 +35,11 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ""
+      path: ''
       type: about
     values:
       layout: page
       subpath: '/images/'
-  - scope:
-      path: ""
-      type: page
-    values:
-      layout: projects
 
 compress_html:
   clippings: all
