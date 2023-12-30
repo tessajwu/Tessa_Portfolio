@@ -4,7 +4,7 @@ title: About
 description: About
 photo: images/IMG_9859.jpg
 ---
-<img align="left" src = "images/IMG_9859.jpg" width="300"> 
+<img align="left" src="images/IMG_9859.jpg" width="300">
 
 
 ## About Me
