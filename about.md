@@ -2,7 +2,7 @@
 layout: page
 title: About 
 description: About
-photo: images/IMG_9859.jpg
+photo: /images/IMG_9859.jpg
 ---
 <img align="left" src="images/IMG_9859.jpg" width="300">
 
