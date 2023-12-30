@@ -4,8 +4,9 @@ title: About
 description: About
 photo: /images/IMG_9859.jpg
 ---
-<img align="left" src="images/IMG_9859.jpg" width="300">
-
+{% if page.photo %}
+<img align="left" src="{{ page.photo }}" width="300">
+{% endif %}
 
 ## About Me
 Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data Science with a minors in Business Administration and Mathematics. Throughout my academic career, I have built a strong foundation in data-driven decision-making and analytical skills. My minor in business exposes me with core financial concepts. With a solid understanding in the multidisplinary fields of business, statistics, and computer science, I am able to draw meaningful connections on how technology can help drive business functions. I am eager to combine my technical expertise with my business acumen and my love for global perspectives to drive forward-thinking data-driven impacts. <br>
