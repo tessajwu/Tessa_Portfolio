@@ -10,7 +10,11 @@ photo: /images/IMG_9859.jpg
 {% endif %}
 
 ## About Me
-Hi! My name is Tessa Wu, a current senior at Boston University majoring in Data Science with a minors in Business Administration and Mathematics. Throughout my academic career, I have built a strong foundation in data-driven decision-making and analytical skills. My minor in business exposes me with core financial concepts. With a solid understanding in the multidisplinary fields of business, statistics, and computer science, I am able to draw meaningful connections on how technology can help drive business functions. I am eager to combine my technical expertise with my business acumen and my love for global perspectives to drive forward-thinking data-driven impacts. <br>
+
+Hi! My name is Tessa Wu, a current Solutions Engineer at Celonis. In simple terms, I work with clients to analyze their business processes using process mining and identify inefficiencies that impact metrics such as cost savings, revenue generation, and overall process efficiency. From there, I help design solutions using applications, automations, and AI to improve their performance.
+
+I have a B.S in Data Science with a minors in Business Administration and Mathematics from Boston University. My professional experience, coursework, and projects have equipped me with a solid foundation in business, statistics, and computer science. With a strong understanding of data manipulation, statistical analysis, and predictive modeling, I am eager to combine my technical expertise with my passion for business and my love for global perspectives to drive forward-thinking data-drvien impacts.
+<br>
 
 Beyond my professional endeavors, I enjoy traveling and listening to music. Traveling for me is not just a hobby but a source of continuous learning and a way to gain a deeper appreciation for the world. I find a lot of joy in exploring new places and connecting with diverse cultures. This passion for diverse perspectives ultimately extends seamlessly into my professional experience in America, Europe, and Asia, providing me with unique insights into diverse business environments. Music serves as my second form of expression. I enjoy taking myself on walks with music which serves as my time to reflect. It’s something so simple yet incredibly gratifying for me to recharge. These activities keep me grounded and focused both in my personal and professional life. 
 
