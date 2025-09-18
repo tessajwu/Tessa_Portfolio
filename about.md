@@ -5,9 +5,10 @@ description: About
 photo: /images/IMG_9859.jpg
 ---
 
-{% if page.photo %}
+<!--{% if page.photo %}
 <img align="left" src="{{ page.photo }}" width="300">
-{% endif %}
+{% endif %} -->
+
 
 ## About Me
 
