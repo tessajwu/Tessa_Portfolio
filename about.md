@@ -12,7 +12,7 @@ photo: /images/IMG_9859.jpg
 
 ## About Me
 
-Hi! My name is Tessa Wu, a current Solutions Engineer at Celonis. In simple terms, I work with clients to analyze their business processes using process mining and identify inefficiencies that impact metrics such as cost savings, revenue generation, and overall process efficiency. From there, I help design solutions using applications, automations, and AI to improve their performance.
+Hi! My name is Tessa Wu, a current Solutions Engineer at Celonis. In simple terms, I work with Fortune 500 clients to analyze their business processes using process mining and identify inefficiencies that impact metrics such as cost savings, revenue generation, and overall process efficiency. From there, I help design solutions using applications, automations, and AI to improve their performance. I also act as a trusted advisor for our clients to help them continuously improve their processes to create value, contexualizing granular insights into high-level business impacts. 
 
 I have a B.S in Data Science with a minors in Business Administration and Mathematics from Boston University. My professional experience, coursework, and projects have equipped me with a solid foundation in business, statistics, and computer science. With a strong understanding of data manipulation, statistical analysis, and predictive modeling, I am eager to combine my technical expertise with my passion for business and my love for global perspectives to drive forward-thinking data-drvien impacts.
 <br>
@@ -22,6 +22,6 @@ Beyond my professional endeavors, I enjoy traveling and listening to music. Trav
 ## Technical Proficiency
 My journey in data science has given me a strong foundation in technical skills and data-driven decision-making. I have honed my programming abilities in languages like Python, SQL/PQL, and R, and am proficient in data visualization tools such as PowerBI and Tableau. I also have hands-on experience with data preprocessing, feature engineering, and building predictive models.
 
-## Future Aspirations
-As someone in their early careers, I am excited to leverage my data science background and skills to make a positive impact in the world. I envision myself in a forward-thinking organization that values development a global mindset. I believe that leveraging data in a global context can create profound impacts, and I’m eager to be a part of that.
+## Professional Aspirations
+As someone in their early careers, I want to leverage my data science background and skills to make a positive impact in the world. I envision myself in a forward-thinking organization that values development a global mindset. I believe that leveraging data in a global context can create profound impacts, and I’m eager to be a part of that.
 
